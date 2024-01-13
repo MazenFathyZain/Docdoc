@@ -14,7 +14,7 @@ class DocApp extends StatelessWidget {
       designSize: const Size(375, 812),
       minTextAdapt: true,
       child: MaterialApp(
-        title: 'Docdoc sApp',
+        title: 'Docdoc App',
         theme: ThemeData(
           primaryColor: ColorManager.mainBlue,
           scaffoldBackgroundColor: Colors.white,
