@@ -1,16 +1,5 @@
 # docdoc
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Capture](https://github.com/MazenFathyZain/Docdoc/assets/116312190/41e6c4a0-aa36-4dc1-98e4-d2614dd66ea5)
+![14446be3-a3b6-4963-bad1-f04730c421f9](https://github.com/MazenFathyZain/Docdoc/assets/116312190/da62cfb4-02c7-43a4-9e23-86b86665ed53)
+![d49f9453-b4a7-4dc5-8bbd-894c625f18ea](https://github.com/MazenFathyZain/Docdoc/assets/116312190/411bc126-b179-42ef-829e-c8b0dcd1c693)
